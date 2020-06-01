@@ -1,1 +1,2 @@
 Contenido inicial de my_file2
+Tambien le agrego otra linea
